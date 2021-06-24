@@ -128,4 +128,7 @@ const init = function () {
   paginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
 };
+const newfeature = function () {
+  console.log(`welcome to the appplication`);
+};
 init();
